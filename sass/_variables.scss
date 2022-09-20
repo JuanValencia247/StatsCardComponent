@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+$Font-Inter: 'Inter', sans-serif;
+$Font-Lexend-Deca: 'Lexend Deca', sans-serif;
+//Primary
+$Very-dark-blue: rgb(9, 11, 26);//(main background)
+$Dark-desaturated-blue: rgb(27, 25, 56);// (card background)
+$Soft-violet: rgb(170, 92, 219);// (accent)
+
+//Neutral
+$White : rgb(255, 255, 255); //(main heading, stats)
+$Slightly-transparent-white : rgba(255, 255, 255, 0.75);//(main paragraph)
+$Slightly-transparent-white : rgba(255, 255, 255, 0.6);//(stat headings)
